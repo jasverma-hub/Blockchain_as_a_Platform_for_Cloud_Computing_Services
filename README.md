@@ -13,8 +13,3 @@ B. Inspection for illegally uploaded files: A unique fingerprint is generated an
 ## Technology Used
 - Programming Language - Java, JavaScript, HTML, CSS, SQL
 
-## Data Model
-<img src="Home Page.png">
-
-
-
