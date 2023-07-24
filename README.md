@@ -7,4 +7,6 @@ A. Anonymous file sharing: The cloud storage service collects a large amount of 
 B. Inspection for illegally uploaded files: A unique fingerprint is generated and uploaded to the blockchain for storage. Whenever a file is uploaded, whether the file uploader is the owner can be easily determined. 
 
 
+## Architecture 
+<img src="System Architecture.png">
 
